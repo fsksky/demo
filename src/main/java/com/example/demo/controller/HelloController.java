@@ -20,6 +20,7 @@ public class HelloController {
 	public ModelAndView test() {
 		System.out.println("(((((");
 		System.out.println("jfsdkls");
+		//-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2 
 		System.out.println("(((((");
 		System.out.println("(((((");
 		System.out.println("(((((");
