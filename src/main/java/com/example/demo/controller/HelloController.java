@@ -18,6 +18,7 @@ public class HelloController {
 
 	@RequestMapping("/test1")
 	public ModelAndView test() {
+		System.out.println("(((((");
 		Person user = new Person();
 		user.setName("tom");
 		ModelAndView mv = new ModelAndView();
