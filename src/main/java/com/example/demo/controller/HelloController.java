@@ -20,6 +20,10 @@ public class HelloController {
 	public ModelAndView test() {
 		System.out.println("(((((");
 		System.out.println("jfsdkls");
+		System.out.println("(((((");
+		System.out.println("(((((");
+		System.out.println("(((((");
+
 		Person user = new Person();
 		user.setName("tom");
 		ModelAndView mv = new ModelAndView();
