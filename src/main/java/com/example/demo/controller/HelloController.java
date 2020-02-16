@@ -19,6 +19,7 @@ public class HelloController {
 	@RequestMapping("/test1")
 	public ModelAndView test() {
 		System.out.println("(((((");
+		System.out.println("jfsdkls");
 		Person user = new Person();
 		user.setName("tom");
 		ModelAndView mv = new ModelAndView();
