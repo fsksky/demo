@@ -33,7 +33,6 @@ public class HelloController {
 		log.debug("debug 1234");
 		log.info("info 1234");
 		log.warn("warn 1234");
-		log.error("error 1234");
 		return mv;
 	}
 
